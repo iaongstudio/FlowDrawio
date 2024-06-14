@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T11:41:36.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1MwIeMgl9EfHhm0-miMS" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-14T15:55:10.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="U9bt2VkAd47klUxiCA7s" version="24.5.4" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3234" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1132" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -553,7 +553,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-4" id="jUXKFijxos_KQR0zecm9">
-    <mxGraphModel dx="781" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bw6d0P1fubSvSjd3jgys-0" />
         <mxCell id="Bw6d0P1fubSvSjd3jgys-1" parent="Bw6d0P1fubSvSjd3jgys-0" />
@@ -736,7 +736,7 @@
         <mxCell id="yISlMEkFn7JciJnlBZM0-3" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Bw6d0P1fubSvSjd3jgys-1">
           <mxGeometry x="473" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="yISlMEkFn7JciJnlBZM0-4" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Bw6d0P1fubSvSjd3jgys-1">
+        <mxCell id="yISlMEkFn7JciJnlBZM0-4" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Bw6d0P1fubSvSjd3jgys-1">
           <mxGeometry x="565" y="399" as="geometry" />
         </mxCell>
         <mxCell id="yISlMEkFn7JciJnlBZM0-5" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Bw6d0P1fubSvSjd3jgys-1">
@@ -753,6 +753,14 @@
         <mxCell id="p1GLnk2V-sXVMFg4Jfry-0" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;กิจกรรมที่ 1&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;การออกแบบฐานข้อมูลระดับแนวคิด โดยใช้แผนภาพ อี-อาร์&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Bw6d0P1fubSvSjd3jgys-1">
           <mxGeometry x="80" y="40" width="630" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hjGfPL4cHgE1Xrd7Kn2P" name="Page-5">
+    <mxGraphModel dx="1132" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

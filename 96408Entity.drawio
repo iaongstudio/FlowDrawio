@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T09:55:11.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="R5jzZXMElG4Uo6cIy5RI" version="24.5.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-15T10:22:06.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_vax97UZ_-DPRvMYAWtT" version="24.5.4" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1148" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -917,7 +917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OUc2YY9fBZo5avT4o5fW" name="Page-6">
-    <mxGraphModel dx="535" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1236,6 +1236,31 @@
         </mxCell>
         <mxCell id="-3mgsvm1wgIcT1H73zJP-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-3mgsvm1wgIcT1H73zJP-84" target="-3mgsvm1wgIcT1H73zJP-88">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3mgsvm1wgIcT1H73zJP-125" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=sarabun;fontSize=11;fontColor=default;labelBackgroundColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsarabun;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="343" y="621" as="geometry">
+            <mxPoint x="2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-3mgsvm1wgIcT1H73zJP-126" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=sarabun;fontSize=11;fontColor=default;labelBackgroundColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsarabun;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="258" y="555" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S6hU-lxGzFSBJePMkd_m" name="Page-7">
+    <mxGraphModel dx="1095" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AXwD4WoXUKta5Hr1o-fT-1" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=sarabun&quot;&gt;กิจกรรมที่ 2&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px;&quot;&gt;แปลงอี-อาร์ ไดอะแกรมให้เป็นสคีมาฐานข้อมูลแบบสัมพันธ์&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontFamily=sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsarabun;align=center;" vertex="1" parent="1">
+          <mxGeometry x="116.5" y="80" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXwD4WoXUKta5Hr1o-fT-2" value="กิจกรรมการฝึ กปฏิบัติเสริมทักษะภาคสนาม : กรณีศึกษาการออกแบบฐานข้อมูล&#xa;ชุดวิชาการจัดการระบบฐานข้อมูล" style="text;whiteSpace=wrap;fontFamily=sarabun;fontSize=14;fontColor=default;labelBackgroundColor=default;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsarabun;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AXwD4WoXUKta5Hr1o-fT-3" value="ปฐมพงศ์ ขาวอ่อน&#xa;6696007555" style="text;whiteSpace=wrap;fontFamily=sarabun;fontSize=14;fontColor=default;labelBackgroundColor=default;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsarabun;align=right;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
